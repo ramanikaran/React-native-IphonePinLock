@@ -1,0 +1,3 @@
+rootProject.name = 'PinLock'
+
+include ':app'
